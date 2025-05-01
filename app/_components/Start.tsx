@@ -37,7 +37,7 @@ export default function Start() {
                     </form>
                 </div>
             </div>
-            <div className="w-1/2 lg:flex relative hidden"><Image className="absolute -bottom-6 right-0" src="/images/start.png" alt="" width={1000} height={0} /></div>
+            <div className="lg:w-1/2 hidden lg:flex relative "><Image className="absolute -bottom-6 right-0" src="/images/start.png" alt="" width={1000} height={0} /></div>
         </div>
     )
 }
